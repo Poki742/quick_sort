@@ -1,5 +1,5 @@
 # quick_sort<br>
-Java 퀵정렬<br>
+Java 퀵 정렬<br>
 ## 퀵 정렬(quick sort) 알고리즘의 개념 요약<br>
 ‘찰스 앤터니 리처드 호어(Charles Antony Richard Hoare)’가 개발한 정렬 알고리즘<br>
 퀵 정렬은 불안정 정렬 에 속하며, 다른 원소와의 비교만으로 정렬을 수행하는 비교 정렬 에 속한다.<br>
